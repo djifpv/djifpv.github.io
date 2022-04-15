@@ -7,3 +7,6 @@
 工具
   * 电脑装[Betaflight](https://github.com/betaflight/betaflight-configurator), 用于USB调试飞机.
       BetaFlight欢迎页会提示装驱动.
+
+参考
+  * [![入坑清单](./assets/faq.jpg)](http://fpvbang.com/thread-1695-1-1.html)
