@@ -76,3 +76,5 @@ ANGLE(角度模式或称自稳模式) HEADFREE(第三人称) HORIZON(半自稳�
 2. 加油门起飞
 
 降落时关油门关ARM.
+
+### 飞机配置[备份](./assets/BTFL_backup_TinyHawk_II.json)
