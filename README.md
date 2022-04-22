@@ -6,7 +6,7 @@
 * 图传眼镜 [SKYZONE 04X](./SKYZONE_04X.md)
 
 工具
-  * 电脑装[Betaflight](https://github.com/betaflight/betaflight-configurator), 用于USB调试飞机.
+  * 电脑装[Betaflight](./Betaflight.md), 用于USB调试飞机.
       BetaFlight欢迎页会提示装驱动.
 
 参考
