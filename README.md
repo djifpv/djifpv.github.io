@@ -6,8 +6,9 @@
 * 图传眼镜 [SKYZONE 04X](./SKYZONE_04X.md)
 
 工具
-  * 电脑装[Betaflight](./Betaflight.md), 用于USB调试飞机.
+  * 电脑装[Betaflight](./Betaflight/README.md), 用于USB调试飞机.
       BetaFlight欢迎页会提示装驱动.
+    也可以用手机装APK
 
 参考
   * [![入坑清单](./assets/faq.jpg)](http://fpvbang.com/thread-1695-1-1.html)
