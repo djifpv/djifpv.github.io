@@ -1,5 +1,5 @@
 ### [Betaflight](https://github.com/betaflight/betaflight-configurator)从源码构建AndroidApk
-vultr 上买个外网机器(IP韩国,网速快,预装Docker)构建, 内存记得开大点. 用完记得把机器删了要不扣钱.
+[vultr](http://vultr.com) 上买个外网机器(IP韩国,网速快,预装Docker)构建, 内存记得开大点. 用完记得把机器删了要不扣钱.
 
 环境: Linux + Docker
 ```bash
@@ -31,7 +31,12 @@ cd -
 yarn gulp release --android # 构建
 ```
 
-编译生成aab文件, 下载回本地转换成apk文件即可安装. (如果是生成的证书, 也要下载好保存, 用来生成apk文件.)
+编译生成AAB文件和生成的证书, 下载回本地
+自己构建成功的AAB文件和证书:
+* [betaflight-configurator_10.8.0_android.aab](../assets/betaflight-configurator_10.8.0_android.aab)
+* [bundle.keystore](../assets/bundle.keystore)
+
+用[bundletool](https://github.com/google/bundletool)转换成apk文件即可安装. 这里需要使用上一步生成的证书.
 ```bash
 curl -LO https://github.com/google/bundletool/releases/download/1.10.0/bundletool-all-1.10.0.jar
 java -jar bundletool-all-1.10.0.jar build-apks --bundle=betaflight-configurator_10.8.0_android.aab --output=betaflight-configurator_10.8.0_android.apks --ks=bundle.keystore --ks-pass=pass:password --ks-key-alias=betaflight --key-pass=pass:password
