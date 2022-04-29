@@ -1,10 +1,16 @@
-# [Tinyhawk2](https://emax-usa.com/products/tinyhawk2)
+# [Tinyhawk2](https://emax-usa.com/collections/tinyhawk-ii-series/products/emax-tinyhawk-2-indoor-fpv-racing-drone-bnf)
+![image](./assets/Satomi_Wallpaper_Minimalist.jpg)
 空心杯,可室内飞行
-[手册](./assets/Tinyhawk%20II%20Freestyle%20BNF%20Instruction%20Manual%20v1.5.pdf)
 
 * 有个机载小摄像头.
 * 送了两块电池(1s450mah, 2s300mah), 一块能飞三分钟.
 * 充电板用于给电池充电.
+
+### 下载资源
+[语音包和3D打印图纸,壁纸](https://emax-usa.com/pages/downloads)
+[相关资源下载, 说明书配置等](https://www.17fpv.com/842.html)
+[手册](./assets/Tinyhawk%20II%20BNF%20Instruction%20Manual%20v2.2.pdf)
+[配置](./assets/TinyHawkII_BNF_MatekF411RX_4.1_191202.txt) 从BF的CLI导入就行
 
 ### 飞前准备
 ---
@@ -77,9 +83,9 @@ ANGLE(角度模式或称自稳模式) HEADFREE(第三人称) HORIZON(半自稳�
   AIRMODE 关闭
 
 ### 备份
-CLI: dump all, 保存文件
+CLI: dump all, 保存[备份](./assets/BTFL_cli_TinyHawk_II_20220428_234815.txt)文件
 文件可以导入回CLI
-[最近备份](./assets/BTFL_cli_TinyHawk_II_20220428_234815.txt)
+飞机配置[备份](./assets/BTFL_backup_TinyHawk_II.json)
 
 ### 飞行
 ---
@@ -87,5 +93,3 @@ CLI: dump all, 保存文件
 2. 加油门起飞
 
 降落时关油门关ARM.
-
-### 飞机配置[备份](./assets/BTFL_backup_TinyHawk_II.json)
