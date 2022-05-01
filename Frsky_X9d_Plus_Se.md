@@ -33,3 +33,8 @@
 1. 找个音乐 例如 song.mp3
 2. 用此命令```ffmpeg -i song.mp3 -acodec pcm_s16le -ar 8000 -ac 1 song.wav```转换音乐为指定格式的wav.
 3. 先将原有的SOUND/SYSTEM/open.wav文件备份, 然后将song.wav放入SOUND/SYSTEM/open.wav路径. 开机后可听到开机声音.
+
+### 固件相关
+[R9M2019高频头](./R9M2019%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS.md)
+[刷OpenTX](./%E5%88%B7OpenTX.md)
+[刷EdgeTX](./%E5%88%B7EdgeTX.md)

@@ -1,8 +1,9 @@
-### 升级OpenTx (2.3.14 - 2.3.15)
+### 刷[OpenTx](https://github.com/OpenTX/opentx) (2.3.14 升级 2.3.15)
 
 [老固件备份(2.3.14)](./assets/Frsky%20Taranis%20X9D+%202019%20Se.backup.bin)
 [Models备份](./assets/models.otx)
 [新固件(2.3.15)](./assets/opentx-x9d+2019-en.bin)
+[新固件(2.3.15)换了Emax图标](./assets/opentx-x9d+2019-en-emax.bin)
 
 [OpenTx相关下载](http://www.open-tx.org/downloads.html)
 * OpenTX Companion : 看操作系统下载软件
