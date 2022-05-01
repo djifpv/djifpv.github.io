@@ -83,7 +83,7 @@ ANGLE(角度模式或称自稳模式) HEADFREE(第三人称) HORIZON(半自稳�
   AIRMODE 关闭
 
 ### 备份
-CLI: dump all, 保存[备份](./assets/BTFL_cli_TinyHawk_II_20220428_234815.txt)文件
+CLI: dump all, 保存[备份](./assets/BTFL_cli_TinyHawk_II.txt)文件
 文件可以导入回CLI
 飞机配置[备份](./assets/BTFL_backup_TinyHawk_II.json)
 
