@@ -223,8 +223,8 @@ beeper -DISARMING
 beeper -ARMING
 beeper -ARMING_GPS_FIX
 beeper ARMING_GPS_NO_FIX
-beeper -BAT_CRIT_LOW
-beeper -BAT_LOW
+beeper BAT_CRIT_LOW
+beeper BAT_LOW
 beeper -GPS_STATUS
 beeper -RX_SET
 beeper -ACC_CALIBRATION
@@ -232,11 +232,11 @@ beeper -ACC_CALIBRATION_FAIL
 beeper -READY_BEEP
 beeper MULTI_BEEPS
 beeper -DISARM_REPEAT
-beeper -ARMED
+beeper ARMED
 beeper SYSTEM_INIT
 beeper -ON_USB
 beeper BLACKBOX_ERASE
-beeper -CRASH_FLIP
+beeper CRASH_FLIP
 beeper -CAM_CONNECTION_OPEN
 beeper -CAM_CONNECTION_CLOSE
 beeper -RC_SMOOTHING_INIT_FAIL
