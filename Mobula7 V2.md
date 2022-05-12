@@ -9,3 +9,6 @@
 ### 飞前准备
 内置接收机对频流程. 因为是FrskyD8/D16, 同[Tinyhawk2](./Tinyhawk2.md)
 外置ELRS 2.4G对频. 使用ELRS2.4G高频头进行对频
+
+### 备份
+CLI: dump all, 保存[备份](./assets/BTFL_cli_Mobula7.txt)文件
