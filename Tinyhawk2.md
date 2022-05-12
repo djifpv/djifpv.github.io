@@ -1,6 +1,6 @@
 # [Tinyhawk2](https://emax-usa.com/collections/tinyhawk-ii-series/products/emax-tinyhawk-2-indoor-fpv-racing-drone-bnf)
 ![image](./assets/Satomi_Wallpaper_Minimalist.jpg)
-空心杯,可室内飞行
+小飞机,可室内飞行
 
 * 有个机载小摄像头.
 * 送了两块电池(1s450mah, 2s300mah), 一块能飞三分钟.
