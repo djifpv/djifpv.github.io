@@ -1,14 +1,8 @@
-### [ELRS(ExpressLRS)高频头固件](https://github.com/ExpressLRS/ExpressLRS)
 ### [R9M2019](https://www.frsky-rc.com/product/r9m-2019/)
-
-ELRS是一个开源的无线电传输协议, 目前比较流行, 性能比较好.
+### [ExpressLRS](./ExpressLRS.md)
 
 ### 资料
 [【ELRS保姆教程】还能学不会？睿思凯R9系统刷写ELRS，让R9m系统脱胎换骨](https://www.bilibili.com/video/BV15v411P7m3)
-
-### 前置下载
-* [编译工具](https://github.com/ExpressLRS/ExpressLRS-Configurator/releases)
-* [固件源码](https://github.com/ExpressLRS/ExpressLRS) 当前2.4.0
 
 ### 构建并安装固件
 1. 先用ExpressLRS-Configurator工具导入本地下载的固件源码ExpressLRS. 选择符合高频头的选项进行构建.
