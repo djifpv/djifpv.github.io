@@ -24,7 +24,7 @@
 
 ### 遥控器使用SD卡加载OpenTx系统
 
-1. 下载对应的SD卡系统包. 此款控是[这个](https://downloads.open-tx.org/2.3/release/sdcard/opentx-x9d%2B2019/sdcard-212x64-2.3V0038.zip)
+1. 下载对应的[SD卡系统包](https://downloads.open-tx.org/).
 2. 解压, 将压缩包根目录文件拷贝到SD卡根目录.
 3. 拆开电池后盖拿出电池, 安装SD卡. 放入电池盖上后盖. 开机.
 4. 能听到开机语音和报警提示语音.
@@ -35,6 +35,7 @@
 3. 先将原有的SOUND/SYSTEM/open.wav文件备份, 然后将song.wav放入SOUND/SYSTEM/open.wav路径. 开机后可听到开机声音.
 
 ### 固件相关
-[R9M2019高频头](./R9M2019%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS.md)
-[刷OpenTX](./%E5%88%B7OpenTX.md)
-[刷EdgeTX](./%E5%88%B7EdgeTX.md)
+* [R9M2019高频头](./R9M2019%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS.md)
+* [BetaFPV 2400 TX Micro 1W高频头](./BetaFPV%202400%20TX%20Micro%201W%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS%E5%9B%BA%E4%BB%B6.md)
+* [刷OpenTX](./%E5%88%B7OpenTX.md)
+* [刷EdgeTX](./%E5%88%B7EdgeTX.md)
