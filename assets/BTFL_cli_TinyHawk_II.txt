@@ -258,10 +258,10 @@ feature -SOFTSPI
 feature -ESC_SENSOR
 feature -ANTI_GRAVITY
 feature -DYNAMIC_FILTER
+feature RX_SERIAL
 feature MOTOR_STOP
 feature RSSI_ADC
 feature OSD
-feature RX_SPI
 feature ANTI_GRAVITY
 feature DYNAMIC_FILTER
 
@@ -300,7 +300,7 @@ map AETR1234
 
 # serial
 serial 20 1 115200 57600 0 115200
-serial 0 0 115200 57600 0 115200
+serial 0 64 115200 57600 0 115200
 serial 1 2048 115200 57600 0 115200
 
 # led
@@ -579,7 +579,7 @@ set rc_smoothing_derivative_type = BIQUAD
 set rc_smoothing_auto_smoothness = 10
 set fpv_mix_degrees = 0
 set max_aux_channels = 14
-set serialrx_provider = SPEK1024
+set serialrx_provider = CRSF
 set serialrx_inverted = OFF
 set spektrum_sat_bind = 0
 set spektrum_sat_bind_autoreset = ON
@@ -794,9 +794,9 @@ set osd_ah_max_rol = 40
 set osd_ah_invert = OFF
 set osd_tim1 = 2560
 set osd_tim2 = 2561
-set osd_vbat_pos = 2454
+set osd_vbat_pos = 2159
 set osd_rssi_pos = 2145
-set osd_link_quality_pos = 2149
+set osd_link_quality_pos = 2263
 set osd_rssi_dbm_pos = 129
 set osd_tim_1_pos = 2209
 set osd_tim_2_pos = 2241
@@ -829,11 +829,11 @@ set osd_pid_yaw_pos = 234
 set osd_debug_pos = 234
 set osd_power_pos = 2327
 set osd_pidrate_profile_pos = 2084
-set osd_warnings_pos = 2184
-set osd_avg_cell_voltage_pos = 2422
+set osd_warnings_pos = 2218
+set osd_avg_cell_voltage_pos = 2153
 set osd_pit_ang_pos = 400
 set osd_rol_ang_pos = 393
-set osd_battery_usage_pos = 2151
+set osd_battery_usage_pos = 107
 set osd_disarmed_pos = 2442
 set osd_nheading_pos = 2275
 set osd_nvario_pos = 2369
@@ -842,7 +842,7 @@ set osd_esc_rpm_pos = 234
 set osd_esc_rpm_freq_pos = 234
 set osd_rtc_date_time_pos = 234
 set osd_adjustment_range_pos = 234
-set osd_flip_arrow_pos = 2317
+set osd_flip_arrow_pos = 2286
 set osd_core_temp_pos = 2231
 set osd_log_status_pos = 234
 set osd_stick_overlay_left_pos = 2246
@@ -1248,7 +1248,7 @@ set idle_pid_limit = 200
 set idle_max_increase = 150
 
 # restore original profile selection
-profile 1
+profile 0
 
 rateprofile 0
 
