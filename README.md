@@ -8,7 +8,9 @@
   * [Tinyhawk2](./Tinyhawk2.md)
   * [Mobula7 V2](./Mobula7%20V2.md)
 * 图传眼镜 [SKYZONE 04X](./SKYZONE_04X.md)
-* 电源 [D6Pro](./assets/D6%20Pro%20%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87.pdf)
+* 电源
+  * [D6Pro双通道智能电源](http://www.hota-exp.com/index.php/pro_v_1_8.html) [[手册](./assets/D6%20Pro%20%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87.pdf)] 功能强大智能, 几乎人手一个.
+  * [HGLRC Thor 1-2s四路充电器](https://www.hglrc.com/products/hglrc-thor-1-2s-charger-4-way-4-35v-charging-board-charger-for-fpv-lithium-battery) [[手册](./assets/HGLRC_Thor_1-2s.pdf)] 1-2s电池基本用他就足够. 带适配器可以接市电, 也可以用XT60接电包.
 * 高频头
   * [ExpressLRS Configurator](https://github.com/ExpressLRS/ExpressLRS-Configurator) ELRS固件构建软件
   * [Frsky R9M2019](https://www.frsky-rc.com/r9m-2019/)
