@@ -3,7 +3,7 @@
 * 模拟器
   * [DRL](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator)(必买,有中文教学)
   * [Liftoff](https://store.steampowered.com/bundle/24029/Liftoff_Ultimate_Collection)
-  * [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/))
+  * [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
 * 小飞机
   * [Tinyhawk2](./Tinyhawk2.md)
   * [Mobula7 V2](./Mobula7%20V2.md)

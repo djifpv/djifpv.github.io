@@ -24,7 +24,7 @@
 
 ### 遥控器使用SD卡加载OpenTx系统
 
-1. 下载对应的[SD卡系统包](https://downloads.open-tx.org/).
+1. 下载对应的[SD卡系统包](https://downloads.open-tx.org/2.3/release/sdcard/).
 2. 解压, 将压缩包根目录文件拷贝到SD卡根目录.
 3. 拆开电池后盖拿出电池, 安装SD卡. 放入电池盖上后盖. 开机.
 4. 能听到开机语音和报警提示语音.
