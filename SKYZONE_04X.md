@@ -11,3 +11,8 @@
 * <del>输入选RF模式, 眼镜会自动扫频连飞机</del>. 右边滚轮长按进入扫频模式.
 
 这个真没啥好讲的, 说明书都没看, 乱按都会用了.
+
+#### 附录
+* [频点图](https://oscarliang.com/fpv-channels/)
+![频点图](./assets/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-sharkbyte-05-21.jpg)
+* 视频 : [模拟图传哪些频道不会被大疆干扰](https://www.bilibili.com/video/BV1p34y1Q7b3/)

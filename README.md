@@ -31,3 +31,4 @@
   * [入坑清单.jpg](./assets/faq.jpg)&nbsp;&nbsp; origin: [收藏！史上最全穿越机入坑清单！](http://fpvbang.com/thread-1695-1-1.html)
   * [《哪种穿越机适合你》一看就懂穿越机类型介绍！](https://www.bilibili.com/video/BV11g411L7bB)
   * [【Yang_FPV】各大厂家的售后联系方式，我是中国好模友](./assets/【Yang_FPV】各大厂家的售后联系方式，我是中国好模友.md)&nbsp;&nbsp; origin: [https://www.bilibili.com/read/cv8718771](https://www.bilibili.com/read/cv8718771)
+  * [【Yang_FPV】穿越机所有必备软件/固件/图传表大全,都是你要的](http://www.fpvbang.com/thread-1802-1-1.html)
