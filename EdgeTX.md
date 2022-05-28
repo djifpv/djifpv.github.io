@@ -3,6 +3,7 @@
 开源版的OpenTx 可以试试
 
 [固件](./assets/edgetx-x9dp2019-f79978b.bin)
+
 [固件换了Emax图标](./assets/edgetx-x9dp2019-f79978b-emax.bin)
 
 [EdgeTX-Installation-Guide](https://github.com/EdgeTX/edgetx.github.io/wiki/EdgeTX-Installation-Guide)

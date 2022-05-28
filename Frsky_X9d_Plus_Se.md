@@ -35,10 +35,10 @@
 3. 先将原有的SOUND/SYSTEM/open.wav文件备份, 然后将song.wav放入SOUND/SYSTEM/open.wav路径. 开机后可听到开机声音.
 
 ### 固件相关
-* [R9M2019高频头](./R9M2019%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS.md)
-* [BetaFPV 2400 TX Micro 1W高频头](./BetaFPV%202400%20TX%20Micro%201W%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS%E5%9B%BA%E4%BB%B6.md)
-* [刷OpenTX](./%E5%88%B7OpenTX.md)
-* [刷EdgeTX](./%E5%88%B7EdgeTX.md)
+* [R9M2019高频头](./R9M2019_ELRS.md)
+* [BetaFPV 2400 TX Micro 1W高频头](./BetaFPV_2400_TX_Micro_1W_ELRS.md)
+* [刷OpenTX](./OpenTX.md)
+* [刷EdgeTX](./EdgeTX.md)
 
 ### 拨杆调节
 ![遥控器内部图](./assets/rc_inner.jpg)
