@@ -1,5 +1,7 @@
 流程
-* 遥控器 [Frsky Taranis X9D Plus SE 2019](./Frsky_X9d_Plus_Se.md)
+* 遥控器
+  * [Frsky Taranis X9D Plus SE 2019](./Frsky_X9d_Plus_Se.md)
+  * [Jumper T-Pro](https://www.jumper-rc.com/products/transmitters/t-pro/) 手柄控, 内置ELRS 1W版本
 * 模拟器
   * [DRL](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator)(必买,有中文教学)
   * [Liftoff](https://store.steampowered.com/bundle/24029/Liftoff_Ultimate_Collection)
@@ -7,7 +9,11 @@
 * 小飞机
   * [Tinyhawk2](./Tinyhawk2.md)
   * [Mobula7 V2](./Mobula7%20V2.md)
-* 图传眼镜 [SKYZONE 04X](./SKYZONE_04X.md)
+* 图传
+  *  [SKYZONE 04X](./SKYZONE_04X.md) 图传眼镜
+  *  [RF接收机](https://www.getfpv.com/learn/fpv-product-reviews-and-comparisons/immersionrc-rapidfire-fpv-goggle-module/) 接受模块
+  *  [鹰眼小飞手4](http://www.cnfpv.com/portal.php?mod=view&aid=140) 图传屏幕
+  *  [鹰眼小飞手大师版](http://www.cnfpv.com/portal.php?mod=view&aid=204) 图传屏幕
 * 电源
   * [D6Pro双通道智能电源](http://www.hota-exp.com/index.php/pro_v_1_8.html) [[手册](./assets/D6%20Pro%20%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87.pdf)] 功能强大智能, 几乎人手一个.
   * [HGLRC Thor 1-2s四路充电器](https://www.hglrc.com/products/hglrc-thor-1-2s-charger-4-way-4-35v-charging-board-charger-for-fpv-lithium-battery) [[手册](./assets/HGLRC_Thor_1-2s.pdf)] 1-2s电池基本用他就足够. 带适配器可以接市电, 也可以用XT60接电包.
@@ -16,7 +22,7 @@
   * [Frsky R9M2019](https://www.frsky-rc.com/r9m-2019/)
     - [R9M刷ELRS固件](./R9M2019%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS.md)
   * [BetaFPV 2400 TX ELRS Micro TX Module](https://betafpv.com/products/elrs-micro-tx-module?variant=39652634722438)
-    - [BetaFPV高频头刷ELRS固件](./BetaFPV%202400%20TX%20Micro%201W高频头刷固件.md)
+    - [BetaFPV高频头刷ELRS固件](./BetaFPV%202400%20TX%20Micro%201W%E9%AB%98%E9%A2%91%E5%A4%B4%E5%88%B7ELRS%E5%9B%BA%E4%BB%B6.md)
 * 电池
   * [高能电池](http://www.gaonengbattery.com/)
     - [1s 850mah 60C](https://www.alibaba.com/product-detail/GAONENG-GNB-1S-850mah-3-8V_1600242051201.html?spm=a2700.shop_plser.41413.22.2ffc11ad1lBpEF)
