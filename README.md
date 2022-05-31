@@ -1,4 +1,4 @@
-# 穿越机入坑记录
+# 穿越机
 
 ### [注意事项](./注意事项.md)
 
@@ -13,6 +13,8 @@
 * 小飞机
   * [Tinyhawk2](./Tinyhawk2.md)
   * [Mobula7 V2](./Mobula7_V2.md)
+* 3寸圈圈机
+  * [Veyron30CR](./Veyron30CR.md) 二手入的套机
 * 图传
   *  [SKYZONE 04X](./SKYZONE_04X.md) 图传眼镜
   *  [RF接收机](https://www.getfpv.com/learn/fpv-product-reviews-and-comparisons/immersionrc-rapidfire-fpv-goggle-module/) 接受模块
