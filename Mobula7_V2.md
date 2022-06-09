@@ -11,4 +11,4 @@
 外置ELRS 2.4G对频. 使用ELRS2.4G高频头进行对频
 
 ### 备份
-CLI: dump all, 保存[备份](./assets/BTFL_cli_Mobula7.txt)文件
+CLI: dump all, 保存[备份](./assets/BTFL_cli_Mobula7_newbeedrone75.txt)文件

@@ -18,14 +18,14 @@ name Mobula7
 
 # resources
 resource BEEPER 1 C15
-resource MOTOR 4 B06
-resource MOTOR 2 A10
 resource MOTOR 1 B07
-resource MOTOR 3 A08
-resource MOTOR 1 NONE
-resource MOTOR 2 NONE
-resource MOTOR 3 NONE
-resource MOTOR 4 NONE
+resource MOTOR 2 B10
+resource MOTOR 3 B08
+resource MOTOR 4 B06
+resource MOTOR 5 NONE
+resource MOTOR 6 NONE
+resource MOTOR 7 NONE
+resource MOTOR 8 NONE
 resource SERVO 1 NONE
 resource SERVO 2 NONE
 resource SERVO 3 NONE
@@ -212,6 +212,7 @@ feature -ANTI_GRAVITY
 feature -DYNAMIC_FILTER
 feature RX_SERIAL
 feature MOTOR_STOP
+feature TELEMETRY
 feature LED_STRIP
 feature OSD
 
@@ -357,10 +358,10 @@ mode_color 7 0 3
 
 # aux
 aux 0 0 0 1300 2100 0 0
-aux 1 1 2 900 1250 0 0
-aux 2 6 2 1300 1700 0 0
+aux 1 1 1 900 1250 0 0
+aux 2 6 1 1300 1700 0 0
 aux 3 13 7 1300 2100 0 0
-aux 4 28 1 1300 2100 0 0
+aux 4 28 4 1300 2100 0 0
 aux 5 35 3 1550 2100 0 0
 aux 6 0 0 900 900 0 0
 aux 7 0 0 900 900 0 0
@@ -479,7 +480,7 @@ set acc_hardware = AUTO
 set acc_lpf_hz = 10
 set acc_trim_pitch = 0
 set acc_trim_roll = 0
-set acc_calibration = 0,0,0
+set acc_calibration = -121,69,-162
 set mid_rc = 1500
 set min_check = 1050
 set max_check = 1900
@@ -538,7 +539,7 @@ set failsafe_off_delay = 10
 set failsafe_throttle = 1000
 set failsafe_switch_mode = STAGE1
 set failsafe_throttle_low_delay = 100
-set failsafe_procedure = DROP
+set failsafe_procedure = AUTO-LAND
 set align_board_roll = 0
 set align_board_pitch = 0
 set align_board_yaw = 0
@@ -546,7 +547,7 @@ set gimbal_mode = NORMAL
 set bat_capacity = 0
 set vbat_max_cell_voltage = 440
 set vbat_full_cell_voltage = 410
-set vbat_min_cell_voltage = 290
+set vbat_min_cell_voltage = 390
 set vbat_warning_cell_voltage = 300
 set vbat_hysteresis = 1
 set current_meter = ADC
@@ -771,11 +772,11 @@ set rate_6pos_switch = OFF
 set cpu_overclock = OFF
 set pwr_on_arm_grace = 5
 set scheduler_optimize_rate = OFF
-set vtx_band = 5
-set vtx_channel = 4
-set vtx_power = 3
+set vtx_band = 4
+set vtx_channel = 8
+set vtx_power = 2
 set vtx_low_power_disarm = OFF
-set vtx_freq = 5769
+set vtx_freq = 5880
 set vtx_pit_mode_freq = 0
 set vtx_halfduplex = ON
 set vcd_video_system = AUTO
@@ -817,7 +818,7 @@ set gyro_1_bustype = SPI
 set gyro_1_spibus = 1
 set gyro_1_i2cBus = 0
 set gyro_1_i2c_address = 0
-set gyro_1_sensor_align = CW90
+set gyro_1_sensor_align = CW0
 set gyro_2_bustype = SPI
 set gyro_2_spibus = 0
 set gyro_2_i2cBus = 0
