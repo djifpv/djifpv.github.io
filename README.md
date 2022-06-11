@@ -15,6 +15,8 @@
   * [Mobula7 V2](./Mobula7_V2.md)
 * 3寸圈圈机
   * [Veyron30CR](./Veyron30CR.md) 二手入的套机
+* 5寸
+  * [DJI FPV](./dji_fpv.md) 航拍无人机/数字图传穿越机
 * 图传
   *  [SKYZONE 04X](./SKYZONE_04X.md) 图传眼镜
   *  [RF接收机](https://www.getfpv.com/learn/fpv-product-reviews-and-comparisons/immersionrc-rapidfire-fpv-goggle-module/) 接受模块
