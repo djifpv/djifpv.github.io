@@ -22,6 +22,7 @@
   *  [RF接收机](https://www.getfpv.com/learn/fpv-product-reviews-and-comparisons/immersionrc-rapidfire-fpv-goggle-module/) 接受模块
   *  [鹰眼小飞手4](http://www.cnfpv.com/portal.php?mod=view&aid=140) 图传屏幕
   *  [鹰眼小飞手大师版](http://www.cnfpv.com/portal.php?mod=view&aid=204) 图传屏幕
+  *  [DJI V2眼镜](https://store.dji.com/cn/product/dji-fpv-goggles-v2) 数字图传眼镜, 连接大疆天空端
 * 电源
   * [D6Pro双通道智能电源](http://www.hota-exp.com/index.php/pro_v_1_8.html) [[手册](./assets/D6%20Pro%20%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87.pdf)] 功能强大智能, 几乎人手一个.
   * [HGLRC Thor 1-2s四路充电器](https://www.hglrc.com/products/hglrc-thor-1-2s-charger-4-way-4-35v-charging-board-charger-for-fpv-lithium-battery) [[手册](./assets/HGLRC_Thor_1-2s.pdf)] 1-2s电池基本用他就足够. 带适配器可以接市电, 也可以用XT60接电包.
