@@ -1,4 +1,5 @@
 ### [R9M2019](https://www.frsky-rc.com/product/r9m-2019/)
+[说明书](./assets/R9M%202019%20ACCESS%20Manual.pdf)
 ### [ExpressLRS](./ExpressLRS.md)
 
 ### 资料
