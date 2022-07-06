@@ -32,6 +32,13 @@
 ### 改开机语音
 1. 找个音乐 例如 song.mp3
 2. 用此命令```ffmpeg -i song.mp3 -acodec pcm_s16le -ar 8000 -ac 1 song.wav```转换音乐为指定格式的wav.
+   批量转换
+   ```shell
+   for item in `ls *.mp3`; do
+    item=${item%.*}
+    ffmpeg -i $item.mp3 -acodec pcm_s16le -ar 8000 -ac 1 $item.wav
+   done
+   ```
 3. 先将原有的SOUND/SYSTEM/open.wav文件备份, 然后将song.wav放入SOUND/SYSTEM/open.wav路径. 开机后可听到开机声音.
 
 ### 固件相关
@@ -58,3 +65,6 @@
     * 若已解锁, 打开3D模式拨杆开关,正常控制并上锁.
   * 穿越机设置了3D模式, 遥控器使用了非3D Model并误解锁:
     * 油门摇杆控制区域为[中点, 最高点], 迅速调整穿越机姿态并在中点上锁.
+
+##### 其他
+  * [语音包](./OpenTX_AUDIO.md)
