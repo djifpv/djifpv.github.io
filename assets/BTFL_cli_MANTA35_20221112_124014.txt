@@ -1,4 +1,4 @@
-#
+# 
 
 # dump
 
@@ -312,12 +312,12 @@ beacon -RX_SET
 map AETR1234
 
 # led
-led 0 0,0:NESWUD:FTOI:0
-led 1 1,0:NESWUD:FTOI:0
-led 2 2,0:NESWUD:FTOI:0
-led 3 3,0:NESWUD:FTOI:0
-led 4 4,0:NESWUD:FTOI:0
-led 5 5,0:NESWUD:FTOI:0
+led 0 0,0::FTOI:1
+led 1 1,0::FTOI:1
+led 2 2,0::FTOI:1
+led 3 3,0::FTOI:1
+led 4 4,0::FTOI:1
+led 5 5,0::FTOI:1
 led 6 0,0::C:0
 led 7 0,0::C:0
 led 8 0,0::C:0
