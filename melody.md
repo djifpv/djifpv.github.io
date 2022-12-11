@@ -28,5 +28,12 @@ wind:b=125,o=6,d=8:b5,c,d,4e,g5,g,e,4d,p,b5,c,d,e,32d,32p,g5,g,e,d,e,c,d,b5,c,g5
 
 # 花之舞
 flowerdance:d=16,o=6,b=100:8e,p,a5,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e7.
-flowerdance:d=16,o=5,b=100:8e,p,a4,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e6.
+flowerdance:d=16,o=5,b=100:8e,p,a4,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e6.,p,8a,32p,8e6,32p,32d6.,32e6.,32d6.,64p,b.,g.,a.,p
+flowerdance:d=16,o=6,b=60:e,d,a,d,e,d,a5,d,e,d,a,d,e,d,a5,d,e,d,a,d,e,d,a5,d,32a5,32d,32e,4a
+
+# 满天
+fullsky:d=16,o=6,b=60:a5,32p,32e,e,32p,16a,g,32p,32a,g,e,32p,32e,f,32e,d,e,32p,c,b5,32c,d,8f,e,32p,a5,32p,32e,e,32p,16a,g,32p,32a,g,e,p,32e,f,32e,d,e,32p,c,b5,32c,b5,a5,p
+
+# lordly
+Melody:b=60,o=6,d=16:a5,b5,c,d,e,p,a,a,g,g,f,p,e,d,c,d,e,d,c,d,e,32p,8d,a5,p
 ```
