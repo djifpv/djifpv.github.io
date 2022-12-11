@@ -22,4 +22,11 @@ manta:d=8,o=6,b=112:a5#,16d,a5#,16d,c,b5,a5#,p,a5#,a5#,16d,a5#,16d,c,b5,a5#,p
 
 # 哀乐
 die:d=4,o=5,b=60:d,e,d,c,d.,d.,d,e,d,c,a4,g4
+
+# 起风了
+wind:b=125,o=6,d=8:b5,c,d,4e,g5,g,e,4d,p,b5,c,d,e,32d,32p,g5,g,e,d,e,c,d,b5,c,g5,p
+
+# 花之舞
+flowerdance:d=16,o=6,b=100:8e,p,a5,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e7.
+flowerdance:d=16,o=5,b=100:8e,p,a4,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e6.
 ```
