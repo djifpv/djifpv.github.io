@@ -34,5 +34,8 @@ flowerdance:d=16,o=6,b=60:e,d,a,d,e,d,a5,d,e,d,a,d,e,d,a5,d,e,d,a,d,e,d,a5,d,32a
 fullsky:d=16,o=6,b=60:a5,32p,32e,e,32p,16a,g,32p,32a,g,e,32p,32e,f,32e,d,e,32p,c,b5,32c,d,8f,e,32p,a5,32p,32e,e,32p,16a,g,32p,32a,g,e,p,32e,f,32e,d,e,32p,c,b5,32c,b5,a5,p
 
 # lordly
-Melody:b=60,o=6,d=16:a5,b5,c,d,e,p,a,a,g,g,f,p,e,d,c,d,e,d,c,d,e,32p,8d,a5,p
+lordly:b=60,o=6,d=16:a5,b5,c,d,e,p,a,a,g,g,f,p,e,d,c,d,e,d,c,d,e,32p,8d,a5,p
+
+# ymca
+ymca:d=16,o=5,b=70:g,e,p,e,d,c,d,e,g,p,e,g,p,a,e,p,e,d,c,d,e,g,p,e,g,p,a,f,p,f,e,d,e,f,a,p,c6,a,p,b.,p,a.,p,g.,p,f.,p,e.,d.,p
 ```
