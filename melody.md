@@ -12,7 +12,7 @@ Mozart:d=16,o=5,b=125:16d#,c#,c,c#,8e,8p,f#,e,d#,e,8g#,8p,a,g#,g,g#,d#6,c#6,c6,c
 
 # 老司机带带我
 olddriver:d=8,o=6,b=125:f,g,g,p,f,g,d,p,c,d,a#5,g5,4d,g5,p,a#5,c,c,p,a#5,g5,g5,p,a#5,g5,c,a#5,g5,p
-olddriver:d=8,o=6,b=200:f,g,g,p,f,g,d,p,c,d,a#5,g5,4d,g5,p,f,g,g,p,f,g,d,p,c,d,a#5,g5,4d,g5,p,d#,f#,d#,d,c,d,d,p,d#,f#,d#,d,c,a5,a5,p,c,d,d,p,c,a5,a5,p,c,a5,d,c,a5,p
+olddriver:d=8,o=6,b=200:f,g,g,p,f,g,d,p,c,d,a#5,g5,4d,g5,p,f,g,g,p,f,g,d,p,c,d,a#5,g5,4d,g5,p,e,g,e,d,c,d,d,p,e,g,e,d,c,a5,a5,p,c,d,d,p,c,a5,a5,p,c,a5,d,c,a5,p
 
 # 错位时空
 errortime:d=8,o=6,b=112:a5,e,16e,16d,16e,16a,g,e,g,p,a,c,16a5,16b5,16c,16f,e,16d,16c,b5,p,c,16a5,16b5,16c,16b5,16c,16f,e,16e,16c,d,p,4e,a5,4b5,p
