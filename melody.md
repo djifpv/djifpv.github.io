@@ -38,6 +38,8 @@ lordly:b=60,o=6,d=16:a5,b5,c,d,e,p,a,a,g,g,f,p,e,d,c,d,e,d,c,d,e,32p,8d,a5,p
 
 # ymca
 ymca:d=16,o=5,b=70:g,e,p,e,d,c,d,e,g,p,e,g,p,a,e,p,e,d,c,d,e,g,p,e,g,p,a,f,p,f,e,d,e,f,a,p,c6,a,p,b.,p,a.,p,g.,p,f.,p,e.,d.,p
+YMCA:d=4,o=5,b=160:8c#6,8a#,2p,8a#,8g#,8f#,8g#,8a#,c#6,8a#,c#6,8d#6,8a#,2p,8a#,8g#,8f#,8g#,8a#,c#6,8a#,c#6,8d#6,8b,2p,8b,8a#,8g#,8a#,8b,d#6,8f#6,d#6,f.6,d#.6,c#.6,b.,a#,g#
+
 
 # 梁祝
 liangzhu:b=50,o=5,d=16:e,32p,g,32a,c6,d6,32a,32c6,g,g6,c7,32a6,32g6,32e6,32g6,d6,32p,d6,32e6,b,a,g,32a,c6,d6,e,c6,32a,32g,32a,32c6,32g,p
