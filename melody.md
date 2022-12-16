@@ -27,7 +27,7 @@ die:d=4,o=5,b=60:d,e,d,c,d.,d.,d,e,d,c,a4,g4
 wind:b=125,o=6,d=8:b5,c,d,4e,g5,g,e,4d,p,b5,c,d,e,32d,32p,g5,g,e,d,e,c,d,b5,c,g5,p
 
 # 花之舞
-flowerdance:d=16,o=5,b=100:1p,1p,2p,8e,p,a4,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e6.,p,8a,32p,8e6,32p,32d6.,32e6.,32d6.,64p,b.,g.,a.,p
+flowerdance:d=16,o=5,b=100:1p,1p,2p.,p.,8e,p,a4,c,e,8d,32p,8g,32p,8d,b,8a,g#,a.,p.,e6.,p,8a,32p,8e6,32p,32d6.,32e6.,32d6.,64p,b.,g.,a.,p
 flowerdance:d=16,o=6,b=60:e,d,a,d,e,d,a5,d,e,d,a,d,e,d,a5,d,e,d,a,d,e,d,a5,d,32a5,32d,32e,4a
 
 # 满天
