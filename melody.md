@@ -22,6 +22,7 @@ manta:d=8,o=6,b=112:a5#,16d,a5#,16d,c,b5,a5#,p,a5#,a5#,16d,a5#,16d,c,b5,a5#,p
 
 # 哀乐
 die:d=4,o=5,b=60:d,e,d,c,d.,d.,d,e,d,c,a4,g4
+die:d=4,o=5,b=60:d,d.,c,d,e,c.,c.,d,c,d,e,d,b4,a4,g4,a4,c,g4,e4,d4,a4,g4,f4
 
 # 起风了
 wind:b=125,o=6,d=8:b5,c,d,4e,g5,g,e,4d,p,b5,c,d,e,32d,32p,g5,g,e,d,e,c,d,b5,c,g5,p
