@@ -20,6 +20,12 @@ errortime:d=8,o=6,b=112:a5,e,16e,16d,16e,16a,g,e,g,p,a,c,16a5,16b5,16c,16f,e,16d
 # manta
 manta:d=8,o=6,b=112:a5#,16d,a5#,16d,c,b5,a5#,p,a5#,a5#,16d,a5#,16d,c,b5,a5#,p
 
+BLHeliSuite格式
+```
+A5 1/2 D6 1/4 A5 1/2 D6 1/4 C6 1/2 B5 1/2 A5 1/2  P 1/2 A5 1/2 A5 1/2 D6 1/4 A5 1/2 D6 1/4 C6 1/2 B5 1/2 A5 1/2
+```
+
+
 # 哀乐
 die:d=4,o=5,b=60:d,e,d,c,d.,d.,d,e,d,c,a4,g4
 die:d=4,o=5,b=60:d,d.,c,d,e,c.,c.,d,c,d,e,d,b4,a4,g4,a4,c,g4,e4,d4,a4,g4,f4
