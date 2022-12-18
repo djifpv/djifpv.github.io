@@ -50,4 +50,7 @@ YMCA:d=4,o=5,b=160:8c#6,8a#,2p,8a#,8g#,8f#,8g#,8a#,c#6,8a#,c#6,8d#6,8a#,2p,8a#,8
 
 # 梁祝
 liangzhu:b=50,o=5,d=16:e,32p,g,32a,c6,d6,32a,32c6,g,g6,c7,32a6,32g6,32e6,32g6,d6,32p,d6,32e6,b,a,g,32a,c6,d6,e,c6,32a,32g,32a,32c6,32g,p
+
+# 孤勇者
+lonelybrave:d=16,o=5,b=100:a,b,c6,d6,b,c6,c6,p,c6,b,c6,d6,b,c6,c6,p,c6,d6,e6,d6,e6,d6,e6,p,e6,d6,8e6,8g6,8e6,p,g6,8e6,p,g6,8e6,p,g6,e6,g6,a6,e6,g6,p,g6,8e6,p,g6,8e6,p,g6,e6,g6,a6,e6,g6,p,g6,g6,e6,8d6,8d6,8c6,e6,8d6,8d6,8c6,a,p,g6,g6,e6,8d6,8d6,8c6,e6,8d6,8d6,8c6,a,p
 ```
