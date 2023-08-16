@@ -54,3 +54,6 @@ liangzhu:b=50,o=5,d=16:e,32p,g,32a,c6,d6,32a,32c6,g,g6,c7,32a6,32g6,32e6,32g6,d6
 # 孤勇者
 lonelybrave:d=16,o=5,b=100:a,b,c6,d6,b,c6,c6,p,c6,b,c6,d6,b,c6,c6,p,c6,d6,e6,d6,e6,d6,e6,p,e6,d6,8e6,8g6,8e6,p,g6,8e6,p,g6,8e6,p,g6,e6,g6,a6,e6,g6,p,g6,8e6,p,g6,8e6,p,g6,e6,g6,a6,e6,g6,p,g6,g6,e6,8d6,8d6,8c6,e6,8d6,8d6,8c6,a,p,g6,g6,e6,8d6,8d6,8c6,e6,8d6,8d6,8c6,a,p
 ```
+
+# 夜航星
+nightvoyager:d=8,o=5,b=112:c,b,c6,4p,b,c,4b,c6,p,4b,g,e,d,4d,c,4e,4p,e,4d,g,b4,4p,4b4,a4,c,p,c,b4,c,4d,4g4,4b4,c,d,4f,e,e,p
